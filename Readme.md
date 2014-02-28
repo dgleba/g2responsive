@@ -1,11 +1,13 @@
 **g2responsive Module Readme.md**
 ---
-2014-02-27 Rev.3
+2014-02-27 Rev.4
 
 ---
 Introduction
 --
-The goal of the g2responsive module is to alter the behvior of the Xataface g2 module to adapt to smaller screens for a more mobile friendly application. It uses twitter bootstrap to make the app responsive to smaller screens. It aims to automatically create a mobile friendly version of your app that behaves like g2 on the desktop and adjusts the screen contents for smaller screens.
+The goal of the g2responsive module is to alter the behavior of the Xataface g2 module to adapt to smaller screens for a more mobile friendly application. It uses twitter bootstrap to make the app responsive to smaller screens. It aims to automatically create a mobile friendly version of your app that behaves like g2 on larger/desktop screens and adjusts the screen contents and layout for smaller screens.
+
+It isn't meant to be a complete solution. It is meant to make it easier to create, find, and edit records on a mobile device.
 
 The module also comes with the option of adding a 'dashboard' page which serves as a main access page to get to every other table. The dashboard contains no table information by default, so you can also use it as a page to display anything that you feel may be helpful to the application.
 
@@ -98,7 +100,7 @@ order=-1999
 visibility:list=visible
 ```
 
-below is an example of what to add to *your_table.php* (where your_table is the name of the table in your application):
+Below is an example of what to add to *your_table.php* (where your_table is the name of the table in your application):
 
 ```
 function __sql__()
