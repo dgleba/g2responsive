@@ -1,5 +1,7 @@
+18
 version
 
+18 - 2014-03-17 12:06 PM  This is no longer updated. see g2responsive-module repo. It has the module contained in a sample app.
 17 - 2014-03-03_Mon_08.38-AM minor
 16 - 2014-02-28 09:37AM
 15 - 28/Feb/2014 updated version
