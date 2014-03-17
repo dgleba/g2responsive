@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+/nbproject/private/
+=======
 modules/
 
 templates_c/
@@ -63,3 +66,4 @@ configphp.dbc
 .Trashes
 ehthumbs.db
 Thumbs.db
+>>>>>>> 3239f74038ba37152c76c2b1ccee8138720f7dd3
