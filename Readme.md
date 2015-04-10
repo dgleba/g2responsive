@@ -1,3 +1,14 @@
+
+This is no longer updated. see g2responsive-module repo. It has the module contained in a sample app.
+
+
+
+
+=====
+
+
+
+
 **g2responsive Module Readme.md**
 ---
 2014-02-27 Rev.4
